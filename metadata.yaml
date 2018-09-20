@@ -8,6 +8,9 @@ contributor:
     deathdate: 1886
     gutenberg_agent_id: '47189'
     url: http://www.gutenberg.org/2009/agents/47189
+covers:
+- cover_type: archival
+  image_path: 53041-h/images/cover.jpg
 creator:
   author:
     agent_name: Cervantes Saavedra, Miguel de
@@ -24,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
     - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53041#Numantia
 gutenberg_issued: '2016-09-13'
 gutenberg_type: Text
 identifiers:
