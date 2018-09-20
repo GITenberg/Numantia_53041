@@ -1,0 +1,40 @@
+_repo: Numantia_53041
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Gibson, James Young
+    alias: Gibson, James Y.
+    birthdate: 1826
+    deathdate: 1886
+    gutenberg_agent_id: '47189'
+    url: http://www.gutenberg.org/2009/agents/47189
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Cervantes, Michel
+    - Saavedra, Miguel de Cervantes
+    - Cervantes, Miguel de
+    - De Cervantes Saavedra, Miguel
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+description: ''
+gutenberg_issued: '2016-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Numantia (Extinct city) -- Drama'
+- !lcc 'PQ'
+- GITenberg
+title: Numantia
+url: http://www.gutenberg.org/ebooks/53041
